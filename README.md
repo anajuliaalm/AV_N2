@@ -47,7 +47,8 @@ public class Quadrado {
 		  }
 		}
 
-
+## 💁‍♀️🎀 Autora 
+Projeto desenvolvido por **Júlia** . Feito para aprender, praticar e compartilhar conhecimento. Se quiser acompanhar ou contribuir, será super bem-vindo(a)! 
 
 		
 	
