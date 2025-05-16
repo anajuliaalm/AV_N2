@@ -12,7 +12,7 @@
 *  Os atributos das figuras geométricas (como base, altura, lado, raio etc.) são **privados** ('private'), seguindo o princípio de **encapsulamento**.
 *  Cada figura pode ter sua própia **classe**, como expliquei acima, contendo métodos responsáveis por calcular sua área.    
 
-### ⬛ Exemplo (classe Quadrado): 
+## ⬛ Exemplo (classe Quadrado): 
 
 package br.edu.formasGeometricasplanas;
 
