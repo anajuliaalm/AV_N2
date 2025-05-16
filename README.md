@@ -5,8 +5,8 @@
 
 
 ## 📝 O que tem nesse repositório? 
-### * Um pacote (br.edu.formasGeometricasPlanas) para agrupar as classes: Quadrado, Triângulo, Hexagono, Losango, Pentagono, Paralelogramo, Círculo, Trápezio e Retangulo. 
-### * Um pacote (br.edu.principal) para agrupar a classe principal para executar todos os códigos: Principal. 
+ * Um pacote (br.edu.formasGeometricasPlanas) para agrupar as classes: Quadrado, Triângulo, Hexagono, Losango, Pentagono, Paralelogramo, Círculo, Trápezio e Retangulo.
+* Um pacote (br.edu.principal) para agrupar a classe principal para executar todos os códigos: Principal. 
 
 ## 🔒 Encapsulamento 
 *  Os atributos das figuras geométricas (como base, altura, lado, raio etc.) são **privados** ('private'), seguindo o princípio de **encapsulamento**.
