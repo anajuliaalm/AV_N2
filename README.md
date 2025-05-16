@@ -4,13 +4,13 @@
 ## Além do foco matemático, o projeto contém encapsulamento e orientação por classes. 
 
 
-#📝 O que tem nesse repositório? 
+# 📝 O que tem nesse repositório? 
 ## * Um pacote (br.edu.formasGeometricasPlanas) para agrupar as classes: Quadrado, Triângulo, Hexagono, Losango, Pentagono, Paralelogramo, Círculo, Trápezio e Retangulo. 
 ## * Um pacote (br.edu.principal) para agrupar a classe principal para executar todos os códigos: Principal. 
 
 ## 🔒 Encapsulamento 
-* Os atributos das figuras geométricas (como base, altura, lado, raio etc.) são **privados** ('private'), seguindo o princípio de **encapsulamento**.
-* Cada figura pode ter sua própia **classe**, como expliquei acima, contendo métodos responsáveis por calcular sua área.    
+*  Os atributos das figuras geométricas (como base, altura, lado, raio etc.) são **privados** ('private'), seguindo o princípio de **encapsulamento**.
+*  Cada figura pode ter sua própia **classe**, como expliquei acima, contendo métodos responsáveis por calcular sua área.    
 
 ### Exemplo (classe Quadrado) 
 
