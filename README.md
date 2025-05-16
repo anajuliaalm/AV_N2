@@ -19,12 +19,3 @@
 
 
 
-* Quadrado
-* Losango
-* Retangulo
-* Círculo
-* Hexagono
-* Trápezio
-* 
-
-  
